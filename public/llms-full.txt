@@ -443,7 +443,7 @@ Description: מאמנת כושר אישית מקצועית מלווה אותך �
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -876,7 +876,7 @@ Description: בחרי את המסלול שמתאים לך ממגוון תוכנ�
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -1363,7 +1363,7 @@ Description: אימונים אישיים צמודים שנותנים דחיפה 
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -1700,7 +1700,7 @@ Description: אני תהילה, ומטרת חיי היא לעזור לך לגל�
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -2097,7 +2097,7 @@ Description: מוכנה להתחיל? צרי קשר עוד היום לתיאום
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -2303,7 +2303,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0584218400
 
 - כתובת: [business_address]
 
@@ -2356,7 +2356,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -2570,7 +2570,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0584218400
 
 
 
@@ -2624,7 +2624,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -2861,7 +2861,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0584218400
 
 - כתובת: [business_address]
 
@@ -2911,7 +2911,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
@@ -3110,7 +3110,7 @@ Description: תהילה פיטנס - תודה שפנית אלינו
 
 - [business_email]
 
-- [business_phone]
+- 0584218400
 
 - [business_address]
 
