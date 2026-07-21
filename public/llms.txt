@@ -1,0 +1,91 @@
+# תהילה פיטנס — Generative Engine Optimization Map
+
+> A personal fitness training business offering customizable training programs for purchase and appointment booking. The brand centers around professional coaching and helping clients achieve their fitness goals through structured training plans and one-on-one sessions.
+
+---
+
+## Pages
+
+### דף הבית
+https://-040527ef.zappy5.app
+מאמנת כושר אישית מקצועית מלווה אותך להשגת תוצאות אמיתיות. תוכניות אימון מותאמות אישית, ליווי צמוד ודחיפה לגבולות חדשים. קבעי אימון ניסיון עוד היום!
+
+### תוכניות אימון
+https://-040527ef.zappy5.app/training-programs
+בחרי את המסלול שמתאים לך ממגוון תוכניות אימון מובנות. בנה את השרירים, שרוף שומן ושנה את ההרגלים עם תוכנית ace personal training מקצועית. הצטרפי עכשיו!
+
+### אימונים אישיים
+https://-040527ef.zappy5.app/personal-sessions
+אימונים אישיים צמודים שנותנים דחיפה אמיתית. טכניקה מדויקת, מוטיבציה בלתי פוסקת ותשומת לב מלאה רק בך. קבעי את הפגישה הראשונה שלך עכשיו.
+
+### אודות תהילה
+https://-040527ef.zappy5.app/about
+אני תהילה, ומטרת חיי היא לעזור לך לגלות את הכוח שבך. גישת אימון ייחודית, ניסיון מוכח ותשוקה אמיתית להצלחה שלך. בואי לשמוע את הסיפור המלא.
+
+### צור קשר
+https://-040527ef.zappy5.app/contact
+מוכנה להתחיל? צרי קשר עוד היום לתיאום ייעוץ ראשוני ללא התחייבות. ביחד נגדיר מטרות, נבנה תוכנית ונתחיל את המסע שלך. אני מחכה לך בהודעה.
+
+### תודה שפנית אלינו
+https://-040527ef.zappy5.app/thank-you
+תהילה פיטנס - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-040527ef.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-040527ef.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-040527ef.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-040527ef.zappy5.app/contact
+- Endpoint: https://-040527ef.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תהילה פיטנס
+A personal fitness training business offering customizable training programs for purchase and appointment booking. The brand centers around professional coaching and helping clients achieve their fitness goals through structured training plans and one-on-one sessions.
+
+## Services/Products
+- תוכניות אימון לרכישה
+- הזמנת תורים
+- אימון כושר אישי
+
+## Target Audience
+- מקצוענים עירוניים
+- הורים מודעים לבריאות
+- מתחילים בכושר
+
+## Industry
+Fitness & Personal Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-040527ef.zappy5.app/sitemap.xml
+- Robots: https://-040527ef.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-040527ef.zappy5.app/llms-full.txt
