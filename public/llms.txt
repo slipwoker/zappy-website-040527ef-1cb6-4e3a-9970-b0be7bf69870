@@ -7,41 +7,41 @@
 ## Pages
 
 ### דף הבית
-https://-040527ef.zappy5.app
+https://example.com
 מאמנת כושר אישית מקצועית מלווה אותך להשגת תוצאות אמיתיות. תוכניות אימון מותאמות אישית, ליווי צמוד ודחיפה לגבולות חדשים. קבעי אימון ניסיון עוד היום!
 
 ### תוכניות אימון
-https://-040527ef.zappy5.app/training-programs
+https://example.com/training-programs
 בחרי את המסלול שמתאים לך ממגוון תוכניות אימון מובנות. בנה את השרירים, שרוף שומן ושנה את ההרגלים עם תוכנית ace personal training מקצועית. הצטרפי עכשיו!
 
 ### אימונים אישיים
-https://-040527ef.zappy5.app/personal-sessions
+https://example.com/personal-sessions
 אימונים אישיים צמודים שנותנים דחיפה אמיתית. טכניקה מדויקת, מוטיבציה בלתי פוסקת ותשומת לב מלאה רק בך. קבעי את הפגישה הראשונה שלך עכשיו.
 
 ### אודות תהילה
-https://-040527ef.zappy5.app/about
+https://example.com/about
 אני תהילה, ומטרת חיי היא לעזור לך לגלות את הכוח שבך. גישת אימון ייחודית, ניסיון מוכח ותשוקה אמיתית להצלחה שלך. בואי לשמוע את הסיפור המלא.
 
 ### צור קשר
-https://-040527ef.zappy5.app/contact
+https://example.com/contact
 מוכנה להתחיל? צרי קשר עוד היום לתיאום ייעוץ ראשוני ללא התחייבות. ביחד נגדיר מטרות, נבנה תוכנית ונתחיל את המסע שלך. אני מחכה לך בהודעה.
 
 ### תודה שפנית אלינו
-https://-040527ef.zappy5.app/thank-you
+https://example.com/thank-you
 תהילה פיטנס - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-040527ef.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-040527ef.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-040527ef.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-040527ef.zappy5.app/contact
-- Endpoint: https://-040527ef.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Fitness & Personal Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-040527ef.zappy5.app/sitemap.xml
-- Robots: https://-040527ef.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-040527ef.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
